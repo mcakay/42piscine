@@ -1,7 +1,5 @@
 # 42piscine
 
-My actual progress in 42 istanbul was:
-
 | Subject      |Experince | Status       |
 | -------------|-----     | -------------|
 | Shell00      | 100 XP   | 100%         |
